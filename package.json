@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-jinja2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Expand jinja2 with fis3",
   "main": "index.js",
   "scripts": {

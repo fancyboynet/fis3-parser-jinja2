@@ -4,7 +4,7 @@ fis3扩展jinja2模板
 
 ## 安装
 
-    $ npm install fis3-parser-jinja2 --save
+    $ npm install fis3-parser-jinja2 --save-dev
 
 ## 基本使用
 
