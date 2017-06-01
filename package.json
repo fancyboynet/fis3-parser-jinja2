@@ -1,0 +1,23 @@
+{
+  "name": "fis3-parser-jinja2",
+  "version": "0.0.1",
+  "description": "Expand jinja2 with fis3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancyboynet/fis3-parser-jinja2.git"
+  },
+  "keywords": [
+    "fis3",
+    "jinja2"
+  ],
+  "author": "Fancy <fancyboynet@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fancyboynet/fis3-parser-jinja2/issues"
+  },
+  "homepage": "https://github.com/fancyboynet/fis3-parser-jinja2#readme"
+}
